@@ -39,4 +39,4 @@ print(f"Lat={lat}, Lon={lon}")  # Lat=59.395312, Lon=24.664182
 
 ## Lisainfo
 
-Moodul valmis Taltech õppeaines ICS0019 Python edasijõudnutele, 2025. a kevadel, 3. kodutöö
+Moodul valmis Taltech õppeaines ICS0019 Python edasijõudnutele, 2025. a kevadel, 3. kodutööna
