@@ -37,6 +37,6 @@ print(f"Lat={lat}, Lon={lon}")  # Lat=59.395312, Lon=24.664182
 - [L-Est97 EPSG:3301](http://spatialreference.org/ref/epsg/3301/)
 - [WGS84 EPSG:4326](http://spatialreference.org/ref/epsg/4326/)
 
-### Lisainfo
+## Lisainfo
 
 Moodul valmis Taltech õppeaines ICS0019 Python edasijõudnutele, 2025. a kevadel, 3. kodutöö
