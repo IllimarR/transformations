@@ -1,4 +1,4 @@
-# Moodul koordinaatide teisendamiseks WGS84 ja L-Est97 vahel
+# Python moodul koordinaatide teisendamiseks WGS84 ja L-Est97 vahel
 
 See moodul võimaldab teisendada geograafilisi koordinaate WGS84 ja L-Est97 vahel.
 
